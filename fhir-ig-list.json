@@ -7342,6 +7342,28 @@
           "url" : "http://hl7.org/fhir/uv/lab-report/2024Sep"
         }
       ]
+    },
+    {
+      "name" : "CIBMTR Reporting Implementation Guide",
+      "category" : "Research",
+      "npm-name" : "nmdp.fhir.cibmtr-reporting",
+      "description" : "??",
+      "authority" : "??",
+      "country" : "??",
+      "history" : "http://fhir.nmdp.org/ig/cibmtr-reporting/history.html",
+      "language" : ["en"],
+      "canonical" : "http://fhir.nmdp.org/ig/cibmtr-reporting",
+      "ci-build" : "http://nmdp-ig.github.io/cibmtr-reporting-ig",
+      "product" : ["fhir", "fhir"],
+      "editions" : [
+        {
+          "name" : "Release Draft",
+          "ig-version" : "0.1.7",
+          "package" : "nmdp.fhir.cibmtr-reporting#0.1.7",
+          "fhir-version" : ["4.0.1"],
+          "url" : "http://fhir.nmdp.org/ig/cibmtr-reporting/0.1.7"
+        }
+      ]
     }
   ]
 }
